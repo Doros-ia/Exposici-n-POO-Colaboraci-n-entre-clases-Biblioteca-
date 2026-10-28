@@ -1,5 +1,6 @@
 package Biblioteca;
 
+// Tema de esta biblioteca: Literatura latinoamericana
 public class Libro {
     String titulo;
     String autor;
